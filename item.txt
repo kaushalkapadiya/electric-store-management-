@@ -1,0 +1,24 @@
+0	qw	3	1	0	fg	23
+1	qw	3	1	0	fg	23
+2	qw	3	1	0	fg	23
+3	qw	3	1	0	fg	23
+4	qw	3	1	0	fg	23
+5	qw	3	1	0	fg	23
+6	qw	3	1	0	fg	23
+7	qw	3	1	0	fg	23
+8	qw	3	1	0	fg	23
+9	qw	3	1	0	fg	23
+10	qw	3	1	0	fg	23
+11	qw	3	1	0	fg	23
+12	qw	3	1	0	fg	23
+13	qw	3	1	0	fg	23
+14	qw	3	1	0	fg	23
+15	qw	3	1	0	fg	23
+16	qw	3	1	0	fg	23
+17	qw	3	1	0	fg	23
+18	qw	3	1	0	fg	23
+19	qw	3	1	0	fg	23
+20	qw	3	1	0	fg	23
+21	qw	3	1	0	fg	23
+22	qw	3	1	0	fg	23
+23	gt	56	2	0	er	56	1	rt	67
