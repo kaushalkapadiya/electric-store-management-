@@ -1,2 +1,2 @@
-# electric-store-management
+# Electric-store-management
 ''' 3k '''
